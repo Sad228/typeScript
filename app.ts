@@ -81,7 +81,7 @@ type Us = {
 
     const user : Us = {
         name:"Max",
-        age:18,
+        age:19,
         gender:'male'
     }
 
